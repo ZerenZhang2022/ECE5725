@@ -1,0 +1,5 @@
+PlantA,23
+PlantB,45
+PlantC,69
+PlantD,29
+PlantE,85
