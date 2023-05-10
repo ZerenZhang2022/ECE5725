@@ -1,5 +1,6 @@
-PlantA,23
-PlantB,45
-PlantC,69
-PlantD,29
-PlantE,85
+Cactus/Succulent,10
+Sunflower,12
+Tomato,55
+Bougainvilleas,80
+Cranberry,70
+Sweet Pea,30
