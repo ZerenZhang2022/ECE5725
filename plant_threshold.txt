@@ -4,3 +4,4 @@ Tomato,55
 Bougainvilleas,80
 Cranberry,70
 Sweet Pea,30
+Testplant,58
