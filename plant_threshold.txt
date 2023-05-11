@@ -6,3 +6,4 @@ Cranberry,70
 Sweet Pea,30
 Testplant,58
 Test002,05
+Test3,40
